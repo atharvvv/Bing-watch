@@ -1,0 +1,69 @@
+#title {
+  background-color: #000000;
+  color: #fff;
+}
+
+#Membership {
+  background-color: #000000;
+  color: #fff;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 700;
+  text-align: center;
+}
+
+p {
+  font-size: 160%;
+  font-family: 'Montserrat-Black', sans-serif;
+
+
+}
+
+.container-fluid {
+  padding: 5% 15%;
+}
+
+.movies-pic {
+  bottom: 80%;
+}
+
+.navbar-brand {
+  font-family: 'Montez', cursive;
+  font-size: 45px !important;
+  margin-left: 8%;
+  margin-bottom: 2%;
+}
+
+.sp-img {
+  border-radius: 100%;
+}
+
+.sp-p {
+  font-size: 125%;
+}
+
+#footer {
+  padding: 1% 5%;
+  background-color:  #222222;
+
+}
+
+.foot{
+  font-family: 'Montez', cursive;
+  font-size: 45px !important;
+  font-weight: bold;
+  color: white;
+}
+
+.f-p{
+  color: white;
+    font-size: 100%;
+}
